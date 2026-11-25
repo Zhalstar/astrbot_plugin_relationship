@@ -2,6 +2,7 @@
 
 ## v3.1.1
 
+- 仓库迁移到 https://github.com/Zhalstar 账号下
 - 将`加好友、加群`功能迁移到Rust，提高保密性
 
 ## v3.1.0
